@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "JAMEKA",
 
-    webhook: "https://websec.services/send/633d866b9ad22e8b19d01611",
+    webhook: "",
 
     logout: true,
     disable_qr_code: true,
